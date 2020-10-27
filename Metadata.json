@@ -1,0 +1,20 @@
+{
+    "Author": "Neil Bird [Msft]",
+    "ContentSize": 30137,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-identify-and-optionally-delete-orphaned-disks/master/azure-get-orphaned-disks.ps1",
+    "DownloadCount": 3996,
+    "Id": "Azure-Identify-and-baaf6a10",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 36,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-2-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "Not Defined",
+    "Summary": "PowerShell script to automate identifying \"Orphaned Disks\" in an Azure subscription. An Orphaned Disk is a Disk that does NOT have an \"Active Lease\" (Unmanaged Disks) or does NOT have a \"ManagedBy\" property set to a VM (Managed Disks). The script outputs  information to a log fil",
+    "Title": "Azure - Identify and Optionally Delete Orphaned Disks",
+    "UpdatedDate": "2019-5-15T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-identify-and-optionally-delete-orphaned-disks",
+    "UserTags": "Microsoft Azure, cost optimization"
+}
